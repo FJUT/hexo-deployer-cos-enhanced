@@ -29,6 +29,7 @@
     "hexo-fs": "^0.2.2",
     "utility": "^1.9.0",
     "request": "^2.79.0",
-    "cos-nodejs-sdk-v5": "^2.4.3"
+    "cos-nodejs-sdk-v5": "^2.4.3",
+    "qcloudapi-sdk": "^0.1.4"
   }
 }

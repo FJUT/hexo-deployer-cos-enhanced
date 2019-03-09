@@ -25,11 +25,11 @@
   "homepage": "https://github.com/75k/hexo-deployer-cos-enhanced#readme",
   "dependencies": {
     "chalk": "^2.3.0",
-    "lodash": "^4.17.2",
-    "hexo-fs": "^0.2.2",
-    "utility": "^1.9.0",
-    "request": "^2.79.0",
     "cos-nodejs-sdk-v5": "^2.4.3",
-    "qcloudapi-sdk": "^0.1.4"
+    "hexo-fs": "^0.2.2",
+    "lodash": "^4.17.2",
+    "qcloud-cdn-node-sdk": "^1.0.0",
+    "request": "^2.79.0",
+    "utility": "^1.9.0"
   }
 }
